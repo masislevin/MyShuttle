@@ -38,6 +38,7 @@ namespace MyShuttle.Web
         public void Configure(IApplicationBuilder app)
         {
             app.ConfigureRoutes();
+            app.UseStaticFiles();
             MyShuttleDataInitializer.InitializeDatabaseAsync(app.ApplicationServices).Wait();
         }
     }
