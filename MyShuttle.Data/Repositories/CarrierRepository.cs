@@ -1,11 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
-using MyShuttle.Data.Interfaces;
-using MyShuttle.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
+using MyShuttle.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyShuttle.Data
 {

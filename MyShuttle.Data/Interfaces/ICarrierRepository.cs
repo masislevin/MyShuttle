@@ -1,10 +1,10 @@
-﻿using MyShuttle.Model;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 using System.Threading.Tasks;
+using MyShuttle.Model;
 
-namespace MyShuttle.Data.Interfaces
+namespace MyShuttle.Data
 {
     public interface ICarrierRepository
     {
@@ -13,6 +13,5 @@ namespace MyShuttle.Data.Interfaces
         Task<Carrier> GetAsync(int carrierId);
         Task<List<Carrier>> GetCarriersAsync(string filter);
         Task UpdateAsync(Carrier carrier);
-
     }
 }
