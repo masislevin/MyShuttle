@@ -1,19 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Model", "MyShuttle.Model\MyShuttle.Model.csproj", "{A64E9646-D683-4B27-A15F-EFA607C20808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.Model", "MyShuttle.Model\MyShuttle.Model.csproj", "{A64E9646-D683-4B27-A15F-EFA607C20808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Data", "MyShuttle.Data\MyShuttle.Data.csproj", "{F4665CCD-F4B8-4023-BBC9-B3143B4AA4EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.Data", "MyShuttle.Data\MyShuttle.Data.csproj", "{F4665CCD-F4B8-4023-BBC9-B3143B4AA4EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D5452336-E05C-466C-B6A4-7DB18F0F28BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{39F4AFC5-31CB-4BBC-85A8-371ECBA70525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.IntegrationTests", "MyShuttle.Test\MyShuttle.IntegrationTests.csproj", "{8C62EA08-2E75-40FE-A3E5-4C36E7687855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.IntegrationTests", "MyShuttle.Test\MyShuttle.IntegrationTests.csproj", "{8C62EA08-2E75-40FE-A3E5-4C36E7687855}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.Web", "MyShuttle.Web\MyShuttle.Web.csproj", "{927ABD75-203C-4A76-BC79-6BC939F89094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.API", "MyShuttle.API\MyShuttle.API.csproj", "{A9B40D56-1050-4BEC-9DF1-8E0FF1D8EE23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{927ABD75-203C-4A76-BC79-6BC939F89094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927ABD75-203C-4A76-BC79-6BC939F89094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927ABD75-203C-4A76-BC79-6BC939F89094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B40D56-1050-4BEC-9DF1-8E0FF1D8EE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B40D56-1050-4BEC-9DF1-8E0FF1D8EE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B40D56-1050-4BEC-9DF1-8E0FF1D8EE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B40D56-1050-4BEC-9DF1-8E0FF1D8EE23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,5 +52,9 @@ Global
 		{F4665CCD-F4B8-4023-BBC9-B3143B4AA4EB} = {D5452336-E05C-466C-B6A4-7DB18F0F28BD}
 		{8C62EA08-2E75-40FE-A3E5-4C36E7687855} = {39F4AFC5-31CB-4BBC-85A8-371ECBA70525}
 		{927ABD75-203C-4A76-BC79-6BC939F89094} = {D5452336-E05C-466C-B6A4-7DB18F0F28BD}
+		{A9B40D56-1050-4BEC-9DF1-8E0FF1D8EE23} = {D5452336-E05C-466C-B6A4-7DB18F0F28BD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81A04AA-C2B7-4D1A-B143-C668686443CF}
 	EndGlobalSection
 EndGlobal

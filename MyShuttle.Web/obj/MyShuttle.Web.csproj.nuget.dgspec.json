@@ -4,6 +4,66 @@
     "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Web\\MyShuttle.Web.csproj": {}
   },
   "projects": {
+    "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
+        "projectName": "MyShuttle.API",
+        "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj",
+        "packagesPath": "C:\\Users\\lmasis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lmasis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {
+              "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
+                "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj"
+              },
+              "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj": {
+                "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Model\\MyShuttle.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -150,6 +210,9 @@
         "frameworks": {
           "netcoreapp1.1": {
             "projectReferences": {
+              "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj": {
+                "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj"
+              },
               "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
                 "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj"
               },

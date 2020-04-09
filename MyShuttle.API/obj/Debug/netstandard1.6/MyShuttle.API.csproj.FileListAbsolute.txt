@@ -1,0 +1,14 @@
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.API.deps.json
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.API.dll
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.API.pdb
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.Data.dll
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.Model.dll
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.Data.pdb
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\bin\Debug\netstandard1.6\MyShuttle.Model.pdb
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.csprojAssemblyReference.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.csproj.CoreCompileInputs.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.AssemblyInfoInputs.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.AssemblyInfo.cs
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.csproj.CopyComplete
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.dll
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.API\obj\Debug\netstandard1.6\MyShuttle.API.pdb

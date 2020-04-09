@@ -24,6 +24,7 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MyShuttle.API\MyShuttle.API.csproj" />
     <ProjectReference Include="..\MyShuttle.Data\MyShuttle.Data.csproj" />
     <ProjectReference Include="..\MyShuttle.Model\MyShuttle.Model.csproj" />
   </ItemGroup>

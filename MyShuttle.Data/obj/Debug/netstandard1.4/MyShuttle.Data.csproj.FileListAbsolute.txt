@@ -4,9 +4,9 @@ C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard1.4\M
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard1.4\MyShuttle.Model.dll
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard1.4\MyShuttle.Model.pdb
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.csprojAssemblyReference.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.csproj.CoreCompileInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.AssemblyInfoInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.AssemblyInfo.cs
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.csproj.CopyComplete
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.dll
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.pdb
-C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard1.4\MyShuttle.Data.csproj.CoreCompileInputs.cache

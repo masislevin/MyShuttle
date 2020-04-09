@@ -11,6 +11,7 @@ C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\bin\Debug\netcoreapp1.1\My
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\bin\Debug\netcoreapp1.1\MyShuttle.Data.pdb
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\bin\Debug\netcoreapp1.1\MyShuttle.Model.pdb
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\obj\Debug\netcoreapp1.1\MyShuttle.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\obj\Debug\netcoreapp1.1\MyShuttle.IntegrationTests.csproj.CoreCompileInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\obj\Debug\netcoreapp1.1\MyShuttle.IntegrationTests.AssemblyInfoInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\obj\Debug\netcoreapp1.1\MyShuttle.IntegrationTests.AssemblyInfo.cs
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Test\obj\Debug\netcoreapp1.1\MyShuttle.IntegrationTests.csproj.CopyComplete

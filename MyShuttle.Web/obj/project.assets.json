@@ -4170,6 +4170,22 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "MyShuttle.API/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.6",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "1.1.2",
+          "MyShuttle.Data": "1.0.0",
+          "MyShuttle.Model": "1.0.0",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/MyShuttle.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyShuttle.API.dll": {}
+        }
+      },
       "MyShuttle.Data/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
@@ -11272,6 +11288,11 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "MyShuttle.API/1.0.0": {
+      "type": "project",
+      "path": "../MyShuttle.API/MyShuttle.API.csproj",
+      "msbuildProject": "../MyShuttle.API/MyShuttle.API.csproj"
+    },
     "MyShuttle.Data/1.0.0": {
       "type": "project",
       "path": "../MyShuttle.Data/MyShuttle.Data.csproj",
@@ -11296,6 +11317,7 @@
       "Microsoft.NETCore.App >= 1.1.2",
       "Microsoft.VisualStudio.Web.BrowserLink >= 1.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 1.1.0",
+      "MyShuttle.API >= 1.0.0",
       "MyShuttle.Data >= 1.0.0",
       "MyShuttle.Model >= 1.0.0"
     ]
@@ -11332,6 +11354,9 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
+            "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj": {
+              "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.API\\MyShuttle.API.csproj"
+            },
             "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj": {
               "projectPath": "C:\\Users\\lmasis\\source\\repos\\MyShuttle\\MyShuttle.Data\\MyShuttle.Data.csproj"
             },

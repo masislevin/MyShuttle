@@ -10,10 +10,12 @@ C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\bin\Debug\netcoreapp1.1\MyS
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\bin\Debug\netcoreapp1.1\MyShuttle.Data.pdb
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\bin\Debug\netcoreapp1.1\MyShuttle.Model.pdb
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.csprojAssemblyReference.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.csproj.CoreCompileInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.AssemblyInfoInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.AssemblyInfo.cs
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.csproj.CopyComplete
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.dll
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.pdb
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.genruntimeconfig.cache
-C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\obj\Debug\netcoreapp1.1\MyShuttle.Web.csproj.CoreCompileInputs.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\bin\Debug\netcoreapp1.1\MyShuttle.API.dll
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Web\bin\Debug\netcoreapp1.1\MyShuttle.API.pdb

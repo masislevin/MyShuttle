@@ -1,9 +1,8 @@
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\bin\Debug\netstandard1.4\MyShuttle.Model.deps.json
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\bin\Debug\netstandard1.4\MyShuttle.Model.dll
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\bin\Debug\netstandard1.4\MyShuttle.Model.pdb
-C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.csprojAssemblyReference.cache
+C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.csproj.CoreCompileInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.AssemblyInfoInputs.cache
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.AssemblyInfo.cs
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.dll
 C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.pdb
-C:\Users\lmasis\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\netstandard1.4\MyShuttle.Model.csproj.CoreCompileInputs.cache
